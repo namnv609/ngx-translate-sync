@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/namnv609/ngx-translate-sync/issues"
   },
-  "homepage": "https://github.com/namnv609/ngx-translate-sync#readme"
+  "homepage": "https://github.com/namnv609/ngx-translate-sync#readme",
+  "dependencies": {
+    "dot-object": "^1.7.0"
+  }
 }
