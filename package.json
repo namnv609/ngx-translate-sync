@@ -1,0 +1,24 @@
+{
+  "name": "ngx-translate-sync",
+  "version": "0.0.1",
+  "description": "Sync JSON translate file for ngx-translate module",
+  "main": "./lib/trans-sync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namnv609/ngx-translate-sync.git"
+  },
+  "keywords": [
+    "ngx-translate",
+    "Angular 4",
+    "translate sync"
+  ],
+  "author": "NamNV609",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/namnv609/ngx-translate-sync/issues"
+  },
+  "homepage": "https://github.com/namnv609/ngx-translate-sync#readme"
+}
